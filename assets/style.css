@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body .Sual3 .cavab .foto{
+ background-image:url(https://www.muallim.edu.az/photos/BDU%20041121_1636020878.jpg);
+ height:400px;
+ background-size: 100%;
+ background-repeat: no-repeat;
+}
+body .Sual4 .cavab table, th, td {
+    border:1px solid black;
+}
+
+body .Sual7 .cavab .box{
+width:100px;
+height:80px;
+border:1px solid red;
+}
+body .Sual7 .cavab{
+display: flex;
+flex-wrap: wrap;
+}
+
+body .Sual8 .cavab .box{
+    width:400px;
+    height:300px;
+    border:1px solid black;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 50px;
+}
+body .Sual9 .cavab .box{
+    width: 100px;
+    height: 80px;
+    border: 1px solid black;
+}
+body .Sual9 .cavab{
+    display: flex;
+    flex-direction: row;
+    float:right;
+}
